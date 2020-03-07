@@ -1,0 +1,4 @@
+1. Install XAMPP
+2. Install python3, pip
+3. Install wheel : pip install wheel
+4. Install pip install mysql-connector-python dan pip install mysql-connector 
