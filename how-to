@@ -1,4 +1,4 @@
 1. Install XAMPP
 2. Install python3, pip
-3. Install wheel : pip install wheel
+3. Install wheel : pip install wheel dan download https://www.lfd.uci.edu/~gohlke/pythonlibs/ dan : >pip install mysqlclient-1.4.6-cp38-cp38-win32.whl
 4. Install pip install mysql-connector-python dan pip install mysql-connector 
