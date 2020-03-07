@@ -3,7 +3,7 @@
 3. Install wheel : pip install wheel 
    and download https://www.lfd.uci.edu/~gohlke/pythonlibs/ 
    and : >pip install mysqlclient-1.4.6-cp38-cp38-win32.whl
-4. Install pip install mysql-connector-python dan pip install mysql-connector 
+4. Install pip install mysql-connector-python dan pip install mysql-connector or pip install mysqlclient
 
 
 example config:
